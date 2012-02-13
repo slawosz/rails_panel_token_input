@@ -1,3 +1,5 @@
 This is example app for this tutorial:
 
 https://github.com/slawosz/rails_panel/wiki/token_input
+
+It will be possible add token_input ass plugin in future versions of rails_panel
